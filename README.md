@@ -4,7 +4,7 @@
 
 ### AI Systems • Autonomous Agents • Founder of [Dharmasthan](https://dharmasthan.in)
 **Computer Engineering @ Sardar Patel Institute of Technology (SPIT), Mumbai**  
-*Navi Mumbai & Mumbai, Maharashtra, India*
+*Mumbai, Maharashtra, India*
 
 <br/>
 
@@ -89,6 +89,6 @@
 [![Visit Portfolio](https://img.shields.io/badge/Explore_Portfolio-nirupam.me-E8B54D?style=for-the-badge&logo=googlechrome&logoColor=121533&labelColor=121533)](https://nirupam.me)
 [![Get in Touch](https://img.shields.io/badge/Contact-Say_Hello-121533?style=for-the-badge&logo=mail.ru&logoColor=E8B54D&labelColor=E8B54D)](mailto:nirupam090@gmail.com)
 
-<p><em>Crafted with care • Navi Mumbai & Mumbai, India</em></p>
+<p><em>Crafted with care • Mumbai, India</em></p>
 
 </div>
