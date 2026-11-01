@@ -71,17 +71,11 @@
 ## 📊 GitHub Analytics
 
 <a href="https://github.com/nirupam090">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=nirupam090&show_icons=true&bg_color=121533&title_color=E8B54D&text_color=F3F0E9&icon_color=E8B54D&border_color=E8B54D&hide_border=false" height="165" alt="Nirupam's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=nirupam090&theme=dark&background=121533&border=E8B54D&stroke=E8B54D&ring=E8B54D&fire=E8B54D&currStreakLabel=E8B54D&sideLabels=F3F0E9&dates=A7ACCF" alt="Nirupam's GitHub Streak" />
 </a>
 &nbsp;
 <a href="https://github.com/nirupam090">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=nirupam090&layout=compact&bg_color=121533&title_color=E8B54D&text_color=F3F0E9&border_color=E8B54D&hide_border=false" height="165" alt="Top Languages" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/nirupam090">
-  <img src="https://streak-stats.demolab.com/?user=nirupam090&theme=dark&background=121533&border=E8B54D&stroke=E8B54D&ring=E8B54D&fire=E8B54D&currStreakLabel=E8B54D&sideLabels=F3F0E9&dates=A7ACCF" alt="Nirupam's GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=nirupam090&layout=compact&bg_color=121533&title_color=E8B54D&text_color=F3F0E9&border_color=E8B54D&hide_border=false" height="195" alt="Top Languages" />
 </a>
 
 <br/><br/>
